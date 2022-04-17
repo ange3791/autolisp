@@ -1,0 +1,18 @@
+(load "BringAbove")
+(load "BreakAtIntersection")
+(load "break2")
+(load "labelline")
+(load "delete-frozen")
+(load "MC-plmb")
+(load "flow_of_fluids")
+(load "layers-misc")
+(load "CopyRotate")
+(load "shortcuts")
+(load "calc-plmb")
+(load "calc-invert")
+
+
+(setvar "wipeoutframe" 2)
+(SETVAR "NAVVCUBEDISPLAY" 0)
+;(rev-layers 1)
+;(setvar "NAVBARDISPLAY" 0)
